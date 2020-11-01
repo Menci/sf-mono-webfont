@@ -1,0 +1,9 @@
+{
+  "name": "sf-mono-webfont",
+  "version": "1.0.0",
+  "description": "SF Mono webfont (WOFF & WOFF2) generated with FontSquirrel.",
+  "main": "stylesheet.css",
+  "author": "Menci",
+  "license": "MIT",
+  "repository": "https://github.com/Menci/sf-mono-webfont"
+}
